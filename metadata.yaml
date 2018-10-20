@@ -1,5 +1,5 @@
 _repo: Serapis-Volume-06_5506
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Bell, Clara
@@ -34,5 +34,6 @@ subjects:
 - !lcc 'PT'
 - !lcsh 'German fiction -- Translations into English'
 - !lcsh 'Egypt -- History -- 30 B.C.-640 A.D. -- Fiction'
+- GITenberg
 title: Serapis — Volume 06
 url: http://www.gutenberg.org/ebooks/5506
